@@ -1,7 +1,3 @@
-# Terryon Taylor
-
-# Terryon1027
-
 # Exercise-02b-Bullets-And-Asteroids
 
 Exercise for MSCH-C220
@@ -24,5 +20,5 @@ None
 
 ## Created by
 
-Nathan Mishler
+Terryon Taylor (Terryon1027)
 
